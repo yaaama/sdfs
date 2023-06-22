@@ -1,0 +1,8 @@
+* Simple distributed storage system
+
+This is a small project focused on rewriting a separate project I had written previously in Java.
+
+It was written very poorly so I want to rewrite it. I will keep this repository open and keep it updated as I work on it.
+
+
+* Specification of the system
